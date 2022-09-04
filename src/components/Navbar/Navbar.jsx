@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Button from './Navbar/Button';
+import Button from './Navbar';
 const Navbar = () => {
 
   let Links = [
