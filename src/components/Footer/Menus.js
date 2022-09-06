@@ -1,27 +1,27 @@
 export const PRODUCTS = [
-  { name: "Drag And Drop", link: "#" },
-  { name: "Visual Studio X", link: "#" },
-  { name: "Easy Content", link: "#" },
+  { name: "Delhi Government Team", link: "#" },
+  { name: "Delhi Development Association", link: "#" },
+  { name: "Our Work", link: "#" },
 ];
 export const RESOURCES = [
-  { name: "Industries and tools", link: "#" },
-  { name: "Use cases", link: "#" },
-  { name: "Blog", link: "#" },
-  { name: "Online evenet", link: "#" },
-  { name: "Nostrud exercitation", link: "#" },
+  { name: "People Choice", link: "#" },
+  { name: "Party Members", link: "#" },
+  { name: "Aam Aadmi Blog", link: "#" },
+  { name: "Online event", link: "#" },
+  { name: "Parliament Discussions", link: "#" },
 ];
 export const COMPANY = [
   { name: "Diversity & inclusion", link: "#" },
   { name: "About us", link: "#" },
   { name: "Press", link: "#" },
-  { name: "Customer Stories", link: "#" },
-  { name: "Online communities", link: "#" },
+  { name: "Janta Stories", link: "#" },
+  { name: "Online Communities", link: "#" },
 ];
 export const SUPPORT = [
-  { name: "Documentation", link: "#" },
-  { name: "Tutorials & guides", link: "#" },
-  { name: "Webinars", link: "#" },
-  { name: "Open-source", link: "#" },
+  { name: "Social Media Donations", link: "#" },
+  { name: "Party National Initiative", link: "#" },
+  { name: "Society Meetings", link: "#" },
+  { name: "Our Creative Initiatives", link: "#" },
 ];
 
 export const Icons = [
