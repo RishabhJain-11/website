@@ -7,9 +7,11 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      {/* <div className='bg-indigo-600 w-full h-screen' /> */}
-      <Hero />
-      <Footer />
+      <div className='bg-indigo-600 w-full h-screen'>
+        <Hero />
+        <Footer />
+      </div>
+
     </div>
   )
 };
